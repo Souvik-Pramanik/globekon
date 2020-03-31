@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+int i,n,arr[100],p;
+printf("\nEnter the element :");
+scanf("%d",&n);
+arr[i]=arr[p];
+printf("\nEnter the location of array is:");
+scanf("%d",&p);
+gca
+}
